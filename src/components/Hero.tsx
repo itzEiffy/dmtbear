@@ -28,7 +28,7 @@ export default function Hero() {
           DMT BEAR
         </h1>
         <img 
-          src={bearGif} 
+          src="/assets/GIF.gif" 
           alt="DMT BEAR"
           className="w-[450px] h-[450px] mx-auto mb-8 rounded-lg object-cover"
         />
