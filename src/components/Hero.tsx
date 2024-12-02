@@ -28,8 +28,8 @@ export default function Hero() {
           DMT BEAR
         </h1>
         <img 
-          src="/GIF.gif" 
-          alt="DMT BEAR"
+          src={bearGif} 
+          alt="https://dmtbear.s3.eu-central-1.amazonaws.com/GIF.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZBH7SJKY3VYTRJAB%2F20241202%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20241202T212450Z&X-Amz-Expires=300&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEB0aDGV1LWNlbnRyYWwtMSJHMEUCIQCiePrJWRsy2bWCfFWIdKAhz29GpT0l3yNtCJumeuKmdAIgEUywi0cpwtYwOrJx48KX7yDDvPT2ILd6EXnmRzTIBQkq8QIIx%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARADGgw2MjExNTg3NDY4MDEiDI60oo2qs8G3Zez7ByrFAoVAZ5Vl10vA4w693y0fgxxlUlmCMXt7gtk%2B3QEsu5WrlsEglEXJBM4dk9HYQlznUgCkv1yhB5VPrG07YoiQt%2BTo3CXNHePaoug%2Bix8nsuMzz9seZQrecI8vMpcxU02w7wAf4t8tKtk0Xjp463IthLz6cmU2ZwgByFCwM2jGulWlBFOes6ObOaiWvXZj1KVFSMIg%2B%2BW7fuIClwa1QQTwT1iLDzd4RMFP17lP9Cv5KTuiwMVwJkdN4ZKpddX3Q6CyIRneYOEdOcPlxDxOV5DeKfoFxOc4D%2FftJ4ru07Xbsft6e9YgaScIIg%2B5oiUgABy7kWg9Jhm21fi0AszQB2MZlyc40U31o%2BuqsXeTLyDceumOUOKN7ri0Dz7RfAHmUFyhnN20qkoo3PN%2BTqGXfiIE39XuFUUasKvl1IBVtQPYm6ILsEJ%2BZIUwrr64ugY6swICmlHVcwK4t7ab8JT%2BjYTAGEfHXo%2FN8JPH3nSc5lpf89GknPRfhAS%2FeBgNc9waqgUtmAqnRj5DZEZ3hpcmQqeXvQCac9D0H3eMr5I4Uj2MRkbtaUO%2FOfap3BZahLdgRjBlRwj%2BHVBipRImQ5wgeRkl8i%2BMFp6zDCxF72H8PqyF%2FUm4we%2B855XNwZruyLe7%2BLNNaL5mRfxTHJG5FYUmbB419Yd8%2F6Ms8U8bZTmYCgD8LzGvlsd6WNCc0rxcOR9%2Foyi7kFLKKkzN4KknIFqF35WhrtEPzshZ3OcvFVjOx6NaMDL9LJDyeON7dgKf7ztwWbK2NlJN8tM53YkdmMkYj0q%2FtNigUqavk72d8E3KWGWPrbqHudvXBXbFAQukuv%2B8QD5Wonk2HV6OHZV%2FSFtXcWJLnW7f&X-Amz-Signature=c4a27789b516e97b5d6f99ce235ade009c07bfc741ceeac575e1a2b049d2c65f&X-Amz-SignedHeaders=host&response-content-disposition=inline"
           className="w-[450px] h-[450px] mx-auto mb-8 rounded-lg object-cover"
         />
         <div className="flex flex-col items-center">
